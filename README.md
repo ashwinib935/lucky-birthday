@@ -11,3 +11,5 @@ It is application that take your birthday and lucky number as a  input and do th
 Netlify
 
 # Preview
+
+![mark11](https://user-images.githubusercontent.com/110533153/188841804-2e4d66f7-54d8-460f-b8d9-724ba2af7e97.PNG)
